@@ -2,7 +2,7 @@
 Replace original Genesis Framework menu with Slim Menu for better usability in mobile.
 
 ## Files
-1. functions.php
+1. slimmenu.php
 2. script.js
 3. style.css
 
